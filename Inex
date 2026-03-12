@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Mini Projekt Docker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Mein Docker Webserver</h1>
+</header>
+
+<section>
+    <h2>Mini-Projekt Modul Docker</h2>
+
+    <p>
+        Diese Webseite läuft in einem Docker Container mit NGINX.
+    </p>
+
+    <p>
+        Der Webserver ist über Port 8080 erreichbar.
+    </p>
+
+    <p>
+        HTML Dateien und Logs werden lokal gespeichert.
+    </p>
+</section>
+
+<footer>
+    <p>Erstellt für das Mini-Projekt</p>
+</footer>
+
+</body>
+</html>
